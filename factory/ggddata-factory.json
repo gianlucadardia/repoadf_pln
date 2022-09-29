@@ -1,0 +1,9 @@
+{
+	"name": "ggddata-factory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a477fed0-a136-41f5-8dfd-c04fa6592fd8",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
